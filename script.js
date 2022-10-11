@@ -121,8 +121,5 @@ $(document).ready(function(){
 
       let observer = new IntersectionObserver(callback, options);
       observer.observe(skillContent[0])
-      
-
-      console.log('hello world')
     
 });
